@@ -1,0 +1,214 @@
+    
+    
+    .contenedor_barra{
+
+        width: 100%;
+        height: 80px;
+        position: absolute;
+        top: 0px;
+        left:0px;
+    }
+
+    .barra1{
+        width: 683px;
+        height: 80px;
+        position:absolute; 
+        top:0px; 
+        left:0px;
+        background-color: #e9f1fc;
+        
+        }
+
+    .barra2{
+    width: 683px;
+    height: 80px;
+    position:absolute; 
+    top:0px; 
+    left:683px;
+    background-color: #e9f1fc;
+
+    }
+   
+    .barra_gen{
+        width: 1366px;
+        height: 80px;
+        position:absolute; 
+        top: 0px; 
+        left: 0px;
+        background-color: #fffefe00;
+        position: absolute;
+        color: #6d7b93;
+        text-align: right;
+
+
+    }
+
+    .boton{
+        background-color:#3959d6;
+        color:white;
+        box-shadow: 0px 10px 2px 0px #7b94ee;
+        width: 120px;
+        height: 35px;
+        border-radius:5%;
+        font-weight: 500;
+        font-size: medium;
+        font-style: arial;
+
+        border:0px
+    }
+
+    a:link, a:visited, a:active {
+        text-decoration:none;
+        color: #6d7b93;
+    }
+
+    .barra_letters{
+        position: absolute;
+        right: 14px;
+        top: 10px;
+        align-items: left;
+        font-style: arial;
+        font-weight: 900;
+        font-size: large;
+        font-style: arial;
+    }
+
+    .text2{
+        position: absolute;
+        text-align: left;
+        top: 0%;
+        font-style: arial;
+        font-weight: 900;
+        font-size: xx-large;
+        font-style: arial;
+        color: #1e3f72;
+
+
+    }
+
+
+
+    .panel1{
+        width: 683px;
+        height: 800px;
+        position: absolute;
+        top:0px; 
+        left:0px;
+        background-color: #fefeff;
+    
+        }
+
+    .panel2{
+    width: 683px;
+    height: 800px;
+    position: absolute;
+    top:0px; 
+    left: 0px;
+    left:683px;
+    background-color: #128de3;
+    }
+
+    .contenedor_barra2{
+        width: 100%;
+        height: 800px;
+        position: absolute;
+        top: 80px;
+        left: 0px;
+    }
+
+    .img1{
+
+            display: block;
+            position: absolute;
+            bottom: 0%;
+            left:25%;
+            width: 70%;
+            height: auto;
+
+    }
+
+.text_vaccine{
+    text-align: left;
+    font-style: arial;
+    font-weight: 1000;
+    font-size: 600%;
+    position: relative;
+    right: -10%;
+    font-style: arial;
+    color: #1e3f72;
+
+}
+
+.img2{
+
+    display: block;
+    position: absolute;
+    top: 0%;
+    left:10%;
+    width: 25%;
+    height: 15%;
+    transform:rotate(180deg);
+
+}
+
+
+.text_vaccine2{
+    text-align: left;
+    font-style: arial;
+    font-weight: 1000;
+    font-size: 150%;
+    font-style: arial;
+    text-align: justify ;
+    width: 70%;
+    position: relative;
+    left: 15%;
+    color: #6e7d92;
+    word-spacing: 10px;
+
+}
+.text_vaccine3{
+    text-align: left;
+    font-style: arial;
+    font-weight: 1000;
+    font-size: 100%;
+    font-style: arial;
+    text-align: justify ;
+    width: 80%;
+    position: relative;
+    left: 10%;
+    color: #6e7d92;
+    word-spacing: 10px;
+
+}
+.img3{
+    width: 20px;
+    height: auto;
+}
+
+.text_vaccine4{
+    font-style: arial;
+    font-weight: 1000;
+    font-size: 120%;
+    color: #6e7d92;
+    font-style: arial
+    word-spacing: 10px;
+
+}
+
+.recuadro{
+    width: 900px;
+    height: 100px;
+    background-color: rgba(228, 227, 227, 0.405);
+    position: absolute;
+    bottom: 20px;
+    left: 150px;
+    border-radius: 5%;
+}
+
+.table{
+    position:absolute;
+    top: 20px;
+    width: 900px;
+
+    color: #6e7d92;
+}

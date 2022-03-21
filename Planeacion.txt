@@ -1,0 +1,28 @@
+Planeacion de publicidad de vacunacion
+
+Primer paso promocion
+
+1.- Promocion por redes sociales
+	Mostraremos datos generales de la vacuna como las principales consecuencias de no vacunarse
+	La publicacion tendra link directo a la pagina creada para que el interesado tenga mas informacion
+	En caso de ser redes como tiktok promocionar con un video atractivo dirigido para jovenes
+2.-Promocion por television yy radio
+	Este medio sera utilizado con un poco mas seriedad ya que el terget es de mayor edad 
+	Se presentara una cancion pegajosa para atraer al televidente o radioescucha
+3.-Pagina web
+	Esta tendra todos los datos de las vacunas disponibles y ubicaciones
+	Aqui mismo tendra acceso a todas las publicidades de la vacunacion
+	Ademas se podra responder dudas y agendar cita para vacunacion
+
+Segundo paso vacunacion
+	
+	Se organizara deacurdo fecha de nacimiento y automaticamente el sistema te agendara una sita con ora y lugar esto para evitar
+	aglomeraciones de personas ya que puede ser un foco de contagio
+	En caso de no asistir se tendra que reagendar.
+	Las sistas estan ajustadas a la cantidad de vacunas.
+	
+
+Tercer paso Vacunacion
+
+	Se implementaran modulos especiales para vacunar en diferentes espacios, el usuario debera asistir a el mudulo seleccionado
+	Ademas en caso de no asistir en el timpo libre se podra vacunar a no agendados solo y si llevan su comporbante de vacunacion anterior
